@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          "halo wurld" (font2, spin)
         </a>
       </header>
     </div>
